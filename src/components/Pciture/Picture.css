@@ -1,0 +1,36 @@
+.contentsWrapper {
+  height: auto;
+  background-color: white;
+  border-bottom: 1px solid whitesmoke;
+  line-height: 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.pictureImg {
+  width: 400px;
+  left: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  margin-bottom: 10px;
+}
+
+.addBtn {
+  height: 40px;
+  color: white;
+  background-color: black;
+  border: 0;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+}
+
+.addBtn:hover {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-block-color: black;
+  border-width: 1px;
+}

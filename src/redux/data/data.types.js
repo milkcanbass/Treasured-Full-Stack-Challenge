@@ -1,0 +1,2 @@
+export const FETCH_PICTURES = 'FETCH_PICTURES';
+export const ADD_PICTURE = 'ADD_PICTURE';

@@ -1,0 +1,7 @@
+.tag {
+  padding: 5px;
+  background-color: gainsboro;
+  display: inline-block;
+  margin: 0 5px 5px 0;
+  border-radius: 15%;
+}

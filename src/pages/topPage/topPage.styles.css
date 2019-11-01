@@ -1,0 +1,49 @@
+.background {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.appWrapper {
+  width: 500px;
+  height: auto;
+  border-radius: 2%;
+  background: white;
+  padding: 1vh;
+  margin-bottom: 20px;
+}
+
+.searchBar {
+  width: 100%;
+  padding: 1% 0;
+  margin-bottom: 5px;
+  display: block;
+  height: 2vh;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid whitesmoke;
+  outline: none;
+  font-size: 1em;
+  color: grey;
+}
+
+.picturesWrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.noItem {
+  color: white;
+}
+
+.myCollectionWrapper {
+  width: 500px;
+  height: auto;
+  border-radius: 2%;
+  background: white;
+  padding: 1vh;
+}
